@@ -3,12 +3,12 @@ entries:
   emqx:
   - apiVersion: v2
     appVersion: v4.1-rc.1
-    created: "2020-05-18T23:00:07.300573+05:30"
+    created: "2020-05-26T13:52:40.369965+05:30"
     description: A Helm chart for EMQ X
-    digest: b123d9786f20cc422e3f2b027342f2b08735a170f129c35b4d002260207b758b
+    digest: 3349fa10eaf0c6b1cedadfcdafb8b9c78ada6b252eae74d6521950644a36f0ae
     name: emqx
     type: application
     urls:
     - emqx-v4.1-rc.1.tgz
     version: v4.1-rc.1
-generated: "2020-05-18T23:00:07.29079+05:30"
+generated: "2020-05-26T13:52:40.368143+05:30"
